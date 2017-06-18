@@ -7,7 +7,7 @@ title: bitsowit
 subtitle:
 description:
 author: bitsowit
-language:
+language: zh-Hans
 timezone:
 
 # URL
@@ -63,10 +63,16 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
+scheme: Pisces
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
   repo: https://github.com/bitsowit/bitsowit.github.io
+
+disqus_shortname: bitsowit
+gentie_productKey: 5d851826353c46c6a65def7646a60c9a
+favicon: images/favicon.png
+
