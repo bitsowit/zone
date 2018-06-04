@@ -66,13 +66,13 @@ pagination_dir: page
 theme: next
 scheme: Pisces
 
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
   repo: https://github.com/bitsowit/bitsowit.github.io
 
-disqus_shortname: bitsowit
 gentie_productKey: 5d851826353c46c6a65def7646a60c9a
-favicon: images/favicon.png
+
 
